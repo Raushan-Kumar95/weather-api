@@ -6,9 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
   
-   background-image: url('./assets/cloud.jpg');
+   /* background-image: url('./assets/cloud.jpg');
    background-size: cover;
-   background-repeat: no-repeat;
+   background-repeat: no-repeat; */
    /* filter: brightness(80%); */
 }
 
